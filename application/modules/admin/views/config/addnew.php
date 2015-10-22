@@ -1,0 +1,1 @@
+<form action="<?php echo base_url() ?>admin/config/addnew" method="post">    <input type="text" name="key">    <input type="text" name="value">    <input type="text" name="desc">    <input type="text" name="type">    <button type="ok" name="ok">okie</button></form>	
